@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> MY WEBPAGE </title>
+</head>
+<body>
+<style>body{background-color:lightblue;}</style>
+<center>
+<h1> WELCOME TO MY WEBPAGE </h1>
+<p> This is a simple webpage with a form </p>
+<h1> Explore the world of technology </h2>
+<h2> College of engineering and management punnapra </h2>
+<form>
+<label for="name">NAME:</label> <br>
+<input type="text" id="name" name="NAME"> <br>
+<label for="gmail">GMAIL:</label> <br>
+<input type="text" id="gmail" name="GMAIL"> <br>
+</form>
+<a href="https://cempunnapra.org/">visit page</a> <br>
+<a href="file:///C:/Users/Dell/OneDrive/Desktop/about.html">about</a> <br>
+<a href="file:///C:/Users/Dell/OneDrive/Desktop/contact.html">contact</a> <br>
+<form>
+<input type="submit" value="SUBMIT" <br>
+</form>
+</body>
+</center>
+</html>

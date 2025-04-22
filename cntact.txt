@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> CONTACTS </title>
+</head>
+<body>
+<center>
+<style>body{background-color:pink;}</style>
+<h1> CONTACT US </h1>
+<p> phne number:5367816378 <br>
+email:cemppunnapra@gmail.com <br>
+address:punnapra,kalarcode <br>
+</body>
+</center>
+</html>
